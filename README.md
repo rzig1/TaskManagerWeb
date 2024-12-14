@@ -46,8 +46,8 @@
 
 ---
 
--Made with ❤️ by AbdelHedi Rziga
--Computer Science Student at ISITCOM
--GitHub: YourGitHubUsername
+Made with ❤️ by AbdelHedi Rziga
+Computer Science Student at ISITCOM
+GitHub: rzig1
 
 
