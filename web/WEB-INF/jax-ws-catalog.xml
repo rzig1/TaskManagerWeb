@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/TaskManagerService/Service?wsdl" uri="wsdl/localhost_8080/TaskManagerService/Service.wsdl"/>
+    <system systemId="http://localhost:8080/TaskManagerService/Service?xsd=1" uri="wsdl/localhost_8080/TaskManagerService/Service.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/TaskManagerService/TaskService?wsdl" uri="wsdl/localhost_8080/TaskManagerService/TaskService.wsdl"/>
+    <system systemId="http://localhost:8080/TaskManagerService/TaskService?xsd=1" uri="wsdl/localhost_8080/TaskManagerService/TaskService.xsd_1.xsd"/>
+</catalog>
